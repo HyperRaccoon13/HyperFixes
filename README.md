@@ -5,3 +5,4 @@ The Zipped folder contains the final, zipped texture pack, for easy use.
 
 All the texture packs are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.](https://creativecommons.org/licenses/by-nc-sa/4.0/) < More info here.
 
+Do note that the Hyper Full will not but 100% up to date, as I only merge the packs when there is alot of new ones
